@@ -9,7 +9,22 @@ As the founder of <a href="http://constituent.au/" target="_blank">Constituent I
 
 - 👯 I’m looking to collaborate on more cross-border investigations.
 
+
+### RECENT PROJECTS
+
+#### Did Victoria Police helicopters really target some suburbs during Melbourne's lockdowns?
+&#128279; http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html
+
+![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
+
+#### Can betting odds reveal match-fixing?
+&#128279; [http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html](https://github.com/jckkrr/Unlayering_Oddsportal)
 ![image](https://user-images.githubusercontent.com/69304112/211271488-6508de61-8250-4afc-95f9-cb0fcec4f1e6.png)
+
+#### Who's who in business?
+&#128279; [[http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html](https://github.com/jckkrr/Unlayering_Oddsportal)](http://constituent.au/uncovering_senators_links_disinformation_campaign.html)
+![image](https://user-images.githubusercontent.com/69304112/211271986-decafcd8-ab7c-4be1-95b1-6047077e37e8.png)
+
 
 ### About me
 
