@@ -9,6 +9,8 @@ As the founder of <a href="http://constituent.au/" target="_blank">Constituent I
 
 - 👯 I’m looking to collaborate on more cross-border investigations.
 
+![image](https://user-images.githubusercontent.com/69304112/211271488-6508de61-8250-4afc-95f9-cb0fcec4f1e6.png)
+
 ### About me
 
 I am an award-winning investigative journalist and data analyst working at the nexus of the political, cyber and anti-disinformation spaces.
