@@ -1,4 +1,4 @@
-## I build algorithmic OSINT tools for investigative journalism.
+# I build algorithmic OSINT tools for investigative journalism.
 
 
 #### Journalism has always been defined by its access to information, and these days, the masses of publicly available data can be as revealing as the hottest scoop - if you can divine the secrets held within.
