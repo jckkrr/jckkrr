@@ -1,4 +1,5 @@
-# 🗣️ I build algorithmic OSINT tools to democratise and weaponise public data.  
+# Algorithmic OSINT for investigative journalism.
+### I build open-source intelligence tools to democratise and weaponise public data for good.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
