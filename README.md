@@ -1,4 +1,4 @@
-# :construction_worker::female_detective: Algorithmic OSINT tools for investigative journalists.
+# :construction_worker: I build algorithmic OSINT tools for investigative journalists. :female_detective:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
