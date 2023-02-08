@@ -1,15 +1,14 @@
 # Algorithmic OSINT for investigative journalism.
 ### I build open-source intelligence tools to find out what's really going on.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 #### Journalism has always been defined by its access to information. But many journalists (data-averse and/or tech-shy) are only scratching the surface of what secrets can be divined from the greatest research tool that ever existed, the internet.
 
 I launched the <a href="http://constituent.au/" target="_blank">Constituent Investigative Analytics Studio</a> earlier this year in order to help journalists - and those in other democratically related fields, such as law and politics - to weaponise public and publicly available data for good, so they can make a bigger difference in their fields. 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 -----------
 #### OPEN-ACCESS TOOLS
 ## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
