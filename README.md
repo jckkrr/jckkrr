@@ -12,31 +12,42 @@ I launched the <a href="http://constituent.au/" target="_blank">Constituent Inve
 
 -----------
 #### OPEN-ACCESS TOOLS
-## UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
-![image](https://user-images.githubusercontent.com/69304112/211271986-decafcd8-ab7c-4be1-95b1-6047077e37e8.png)
-
+## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
+![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
 The UKCH is an outstanding resource for finding business connections. This tool makes the process more efficient and revealing, by creating network maps of a person's business associates - which then expands to show the associates of those associates. 
 
-https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app/
+Find it on Streamlit: https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app/
+
+## :airplane: WHO MET WHO? :airplane:
+![image](https://user-images.githubusercontent.com/69304112/217395977-3c3f5d25-8458-4f8e-8dee-9a657768f6f3.png)
+
+OSINT investigators wish they could get access to flight records. This tool doesn't do that, but it does show which planes landed and took off on the same days from an airport, which can be useful in offering potentially solutions to who was meeting whom.
+
+It applies relational alegbra to the constructed databases built from the Open Sky Network and HexDB.io APIS, in order to return the details on all aircraft that fit the search criteria.
+
+Find it on Streamlit: https://jckkrr-airport-crossover-tool-streamlit-app-ttrh8c.streamlit.app/
+
+Find it on Github: https://github.com/jckkrr/UK_Companies_House_Network_Mapper
 
 -----------
-### RECENT PROJECTS
+#### RECENT PROJECTS
 
-### Using police helicopter pings to show which suburbs were targeted during lockdown
-I harvested, visualised and analysed over a million police helicopter pings from the pandemic period. It showed that one council area in the north of Melbourne received disproportionate attention from the air police in that time.
+### :helicopter: POLICE PINGS MAPPER
+![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
+
+I collected and analysed over a million pings sent out by the Victoria Police helicopters during Melbourne's lockdowns years. Was there any truth to the rumoursthat they'd targetted some suburbs? The analysis showed that one council area in the north of Melbourne received disproportionate attention.
 
 &#128279; http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html
 
-![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
 
 ...
-### Using betting data to look for match-fixing and other anomolies
-&#128279; https://github.com/jckkrr/Unlayering_Oddsportal
+### :soccer: LONG SHOTS
 ![image](https://user-images.githubusercontent.com/69304112/211271488-6508de61-8250-4afc-95f9-cb0fcec4f1e6.png)
 
-...
-### Connecting people and organisations via business records
-&#128279; https://github.com/jckkrr/UK_Companies_House_Network_Mapper
+I love using betting data to look for everything from match-fixing to market sentiment
+
+&#128279; https://github.com/jckkrr/Unlayering_Oddsportal
+
 
 -----------
 ### About me
