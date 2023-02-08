@@ -1,14 +1,23 @@
 # Algorithmic OSINT for investigative journalism.
-### I build open-source intelligence tools to democratise and weaponise public data for good.
+### I build open-source intelligence tools to democratise analytics and weaponise public data for good.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### Journalism has always been defined by its access to information. But many journalists (data-averse and/or tech-shy) are only scratching the surface of what secrets can be divined from the greatest research tool that ever existed, the internet.
 
 I launched the <a href="http://constituent.au/" target="_blank">Constituent Investigative Analytics Studio</a> earlier this year in order to help journalists - and those in other democratically related fields, such as law and politics - to weaponise public and publicly available data for good, so they can make a bigger difference in their fields. 
 
+-----------
+#### OPEN-ACCESS TOOLS
+## UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
+![image](https://user-images.githubusercontent.com/69304112/211271986-decafcd8-ab7c-4be1-95b1-6047077e37e8.png)
+
+The UKCH is an outstanding resource for finding business connections. This tool makes the process more efficient and revealing, by creating network maps of a person's business associates - which then expands to show the associates of those associates. 
+
+https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app/
 
 -----------
 ### RECENT PROJECTS
@@ -28,18 +37,18 @@ I harvested, visualised and analysed over a million police helicopter pings from
 ...
 ### Connecting people and organisations via business records
 &#128279; https://github.com/jckkrr/UK_Companies_House_Network_Mapper
-![image](https://user-images.githubusercontent.com/69304112/211271986-decafcd8-ab7c-4be1-95b1-6047077e37e8.png)
 
 -----------
 ### About me
 
-I am an award-winning investigative journalist and data analyst working at the nexus of the political, cyber and anti-disinformation spaces.
+I am an award-winning, New York Times-published investigative analyst and data storyteller, specialising in programmatic open-source intelligence (OSINT). I regularly work on projects in the cyber forensics, anti-disinformation, corporate intelligence, sports integrity, logistics and psephological spaces.
+My investigative work has received funding from the European Union, featured in Interpol briefings, informed AUSTRAC’s research, been broadcast on ABC and made front-page news at The Age. My recently launched Constituent Studio is committed to pushing the field of investigative analytics forward, democratising analytics and translating data into insights for leading institutions across media, law and politics.
 
-My reporting has been published internationally by The New York Times, The Guardian, Der Spiegel and ESPN, featured in Interpol briefings, had academic papers published and produced front page investigations for The Age. I spent close to two-decades with the ABC, including most recently as digital editor and data consultant on election integrity projects for its prestigious fact checking unit.
+As an investigative journalist and data analyst with a masters in law and expertise in programming languages such as Python, I am a natural problem solver and communicator who is passionate about using data to find out what is really going on. I have consistently demonstrated an expertise for discerning patterns, following leads and getting to the bottom of complex problems of significant public interest, and also for translating technological research into clear and incisive analysis of the problems at hand.
 
-With a Master of Commercial Law from the University of Melbourne and a range of technical and programming qualifications, I am committed to pushing the field of investigative analytics forward, enabling greater access to data for leading organisations across democratically-aligned fields such as media, politics and law, and recently received funding from an EU-affiliated body to carry out such work.
+My Master of Commercial Law from the University of Melbourne was heavily focussed on data rights and data investigations, and two papers in this area, including one related to fraud committed using cryptocurrency, have been published by a leading international journal. More recently, I have completed a number of certificates in data science fields such as machine learning and relational database certifications from Stanford Online.
 
-In short, I am an insights-seeking, facts-driven analyst and storyteller with a forensic eye for getting to the bottom of what is really going on - and 
+In 2022, I worked on election disinformation projects with RMIT ABC Fact Check, including one in collaboration with the London-based Institute for Strategic Dialogue, and as part of this work, built tools to collect and analyse official data, and through this, we were able to reveal the depths of a senator’s links to a group found to have spread misinformation. 
 
 - 📫 How to reach me: studio@constituent.au
 
