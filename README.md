@@ -5,19 +5,20 @@
 
 I launched the <a href="http://constituent.au/" target="_blank">Constituent Investigative Analytics Studio</a> earlier this year in order to help journalists - and those in other democratically related fields, such as law and politics - to weaponise public and publicly available data for good, so they can make a bigger difference in their fields. 
 
------------
-#### WEAPONS OF CHOICE
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 -----------
 #### OPEN-ACCESS TOOLS
 ## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
 ![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
 The UKCH is an outstanding resource for finding business connections. This tool makes the process more efficient and revealing, by creating network maps of a person's business associates - which then expands to show the associates of those associates. 
 
-Find it on Streamlit: https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app/
+Find it on ![Streamlit](https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app)
 
 ## :airplane: WHO MET WHO? :airplane:
 ![image](https://user-images.githubusercontent.com/69304112/217395977-3c3f5d25-8458-4f8e-8dee-9a657768f6f3.png)
@@ -26,9 +27,9 @@ OSINT investigators wish they could get access to flight records. This tool does
 
 It applies relational alegbra to the constructed databases built from the Open Sky Network and HexDB.io APIS, in order to return the details on all aircraft that fit the search criteria.
 
-Find it on Streamlit: https://jckkrr-airport-crossover-tool-streamlit-app-ttrh8c.streamlit.app/
+Find it on ![Streamlit](https://jckkrr-airport-crossover-tool-streamlit-app-ttrh8c.streamlit.app) | ![Github](https://github.com/jckkrr/UK_Companies_House_Network_Mapper) 
 
-Find it on Github: https://github.com/jckkrr/UK_Companies_House_Network_Mapper
+These are just a taste of the tools we have available. We'd love to tell you moreabout them. Get in touch at studio@constituent.au
 
 -----------
 #### RECENT PROJECTS
@@ -38,7 +39,7 @@ Find it on Github: https://github.com/jckkrr/UK_Companies_House_Network_Mapper
 
 I collected and analysed over a million pings sent out by the Victoria Police helicopters during Melbourne's lockdowns years. Was there any truth to the rumoursthat they'd targetted some suburbs? The analysis showed that one council area in the north of Melbourne received disproportionate attention.
 
-&#128279; http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html
+Find it at ![Constituent Studio]([https://github.com/jckkrr/Unlayering_Oddsportal](http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html)) 
 
 
 ...
@@ -47,8 +48,12 @@ I collected and analysed over a million pings sent out by the Victoria Police he
 
 I love using betting data to look for everything from match-fixing to market sentiment
 
-&#128279; https://github.com/jckkrr/Unlayering_Oddsportal
+Find it on ![Github](https://github.com/jckkrr/Unlayering_Oddsportal) 
 
+&#128279; 
+
+-----------
+#### Made in Melbourne
 
 -----------
 ### About me
