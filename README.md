@@ -1,4 +1,4 @@
-# I love using data to find out what is really going on. 
+# Using data to find out what is really going on. 
 
 🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
 
@@ -17,7 +17,7 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 
 
 -----------
-### Investigative Analytics & Digital OSINT TOOLS
+### Investigative Analytics & Digital OSINT Tools
 
 ## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
 ![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
