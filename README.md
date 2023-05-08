@@ -17,9 +17,8 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 
 
 -----------
-## Investigative Analytics & Digital OSINT  
+### Investigative Analytics & Digital OSINT TOOLS
 
-#### OPEN-ACCESS TOOLS
 ## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
 ![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
 The UKCH is an outstanding resource for finding business connections. This tool makes the process more efficient and revealing, by creating network maps of a person's business associates - which then expands to show the associates of those associates. 
