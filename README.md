@@ -1,4 +1,4 @@
-# Using data to find out what is really going on. 
+# I love using data to find out what is really going on. 
 
 🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
 
@@ -14,14 +14,6 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 📍 Melbourne, Australia
 
 #### #investigativeAnalytics #digitalOSINT #dataStoryteller #dataTranslations #dataViz #investigativejournalism
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Dash-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Python](https://img.shields.io/badge/BeautSoup-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/Selenium-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 -----------
@@ -70,26 +62,14 @@ Find it on ![Github](https://github.com/jckkrr/Unlayering_Oddsportal)
 #### Made in Melbourne
 
 -----------
-### About me
 
-
-##### My investigations have:
-- ##### exposed World Cup passport fraud for The New York Times;
-- ##### been front-page news for The Age;
-- ##### been aired by the ABC; 
-- ##### featured in Interpol briefings; 
-- ##### informed federal money-laundering investigations; and
-- ##### received a European Centre for Press & Media Freedom IJ4EU Impact Award.
-- 
-I am an award-winning, New York Times-published investigative analyst and data storyteller, specialising in programmatic open-source intelligence (OSINT). I regularly work on projects in the cyber forensics, anti-disinformation, corporate intelligence, sports integrity, logistics and psephological spaces.
-
-My investigative work has received funding from the European Union, featured in Interpol briefings, informed AUSTRAC’s research, been broadcast on ABC and made front-page news at The Age. My recently launched Constituent Studio is committed to pushing the field of investigative analytics forward, democratising analytics and translating data into insights for leading institutions across media, law and politics.
-
-As an investigative journalist and data analyst with a masters in law and expertise in programming languages such as Python, I am a natural problem solver and communicator who is passionate about using data to find out what is really going on. I have consistently demonstrated an expertise for discerning patterns, following leads and getting to the bottom of complex problems of significant public interest, and also for translating technological research into clear and incisive analysis of the problems at hand.
-
-My Master of Commercial Law from the University of Melbourne was heavily focussed on data rights and data investigations, and two papers in this area, including one related to fraud committed using cryptocurrency, have been published by a leading international journal. More recently, I have completed a number of certificates in data science fields such as machine learning and relational database certifications from Stanford Online.
-
-In 2022, I worked on election disinformation projects with RMIT ABC Fact Check, including one in collaboration with the London-based Institute for Strategic Dialogue, and as part of this work, built tools to collect and analyse official data, and through this, we were able to reveal the depths of a senator’s links to a group found to have spread misinformation. 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Dash-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/BeautSoup-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Selenium-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 📫 How to reach me: studio@constituent.au
 
