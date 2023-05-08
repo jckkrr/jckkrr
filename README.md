@@ -1,17 +1,20 @@
-## Using data to find out what is really going on. 
-#### #investigativeAnalytics #digitalOSINT #dataStoryteller #dataTranslations
-
-#### I'm a data-driven investigative journalist and OSINT analyst. I use Python to build tools that break front-page news and drive award-winning investigations. I tackle issues of significant public interest for leading organisations. 
-
-Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinformation; 👥: corporate intelligence; :soccer: gambling investigations; :plane: aviation as a source of alternative data; 🗳️: government data.
-
-🗞️: My investigations have exposed World Cup passport fraud for The New York Times, been front-page news for The Age, been broadcast by the ABC, informed federal anti-money laundering investigations and featured in Interpol briefings. 
+# Using data to find out what is really going on. 
 
 🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
 
+### I'm an investigative data analyst who uses Python to break front-page news and drive award-winning investigations.
+
+My investigations have: 🛂:exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
+
+
+Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinformation; 👥: corporate intelligence; :soccer: gambling investigations; ✈️: aviation as a source of alternative data; 🗳️: government data.
+
+
+
 📍 Melbourne, Australia
 
-## ...
+#### #investigativeAnalytics #digitalOSINT #dataStoryteller #dataTranslations #dataViz #investigativejournalism
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
