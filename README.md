@@ -1,9 +1,7 @@
-# Algorithmic OSINT for investigative journalism.
 ### I build intelligence tools that break front-page news and drive award-winning investigations.
+##### An investigative journalist with expertise in OSINT, cyber and Python programming, I work with leading organisations to tackle issues of significant public interest and show them what is really going on.
 
-#### Journalism has always been defined by its access to information. But many journalists (data-averse and/or tech-shy) are only scratching the surface of what secrets can be divined from the greatest research tool that ever existed, the internet.
-
-I launched the <a href="http://constituent.au/" target="_blank">Constituent Investigative Analytics Studio</a> earlier this year in order to help journalists - and those in other democratically related fields, such as law and politics - to weaponise public and publicly available data for good, so they can make a bigger difference in their fields. 
+##### My investigations have been published by The New York Times, featured in Interpol briefings, informed federal money-laundering investigations and received a European Centre for Press & Media Freedom IJ4EU Impact Award.
 
 
 
