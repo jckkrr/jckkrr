@@ -1,5 +1,5 @@
 # Algorithmic OSINT for investigative journalism.
-### I build open-source intelligence tools to find out what's really going on.
+### I build intelligence tools that break front-page news and drive award-winning investigations.
 
 #### Journalism has always been defined by its access to information. But many journalists (data-averse and/or tech-shy) are only scratching the surface of what secrets can be divined from the greatest research tool that ever existed, the internet.
 
