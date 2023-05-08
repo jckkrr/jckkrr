@@ -1,7 +1,9 @@
-### I build intelligence tools that break front-page news and drive award-winning investigations.
-##### An investigative journalist with expertise in OSINT, cyber and Python programming, I work with leading organisations to tackle issues of significant public interest and show them what is really going on.
-
-##### My investigations have been published by The New York Times, featured in Interpol briefings, informed federal money-laundering investigations and received a European Centre for Press & Media Freedom IJ4EU Impact Award.
+## Jack Kerr
+##### ... is an investigative journalist with expertise in OSINT, cyber and Python programming. 
+##### ... works with leading organisations to tackle issues of significant public interest and show them what is really going on.
+##### ... builds intelligence tools that break front-page news and drive award-winning investigations.
+##### ... 's investigations have been published by The New York Times, been front page news for The Age, featured in Interpol briefings and informed federal money-laundering investigation.
+##### .... is the winner of a European Centre for Press & Media Freedom IJ4EU Impact Award.
 
 
 
