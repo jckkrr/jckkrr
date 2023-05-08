@@ -1,17 +1,15 @@
-## Investigative Analytics & Digital OSINT  
-#### Using data to find out what is really going on.
+## Using data to find out what is really going on. 
+#### #investigativeAnalytics #digitalOSINT #dataStoryteller #dataTranslations
 
-##### I use Python to build OSINT tool that break front-page news, drive award-winning investigations and tackle issues of significant public interest for leading organisations. 
+#### I'm a data-driven investigative journalist and OSINT analyst. I use Python to build tools that break front-page news and drive award-winning investigations. I tackle issues of significant public interest for leading organisations. 
 
-##### I am an investigative journalist with expertise in OSINT, cyber, fact-checking and corporate intelligence, as well as gambling, aviation and government data.
+Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinformation; 👥: corporate intelligence; :soccer: gambling investigations; :plane: aviation as a source of alternative data; 🗳️: government data.
 
-##### My investigations have:
-- ##### exposed World Cup passport fraud for The New York Times;
-- ##### been front-page news for The Age;
-- ##### been aired by the ABC; 
-- ##### featured in Interpol briefings; 
-- ##### informed federal money-laundering investigations; and
-- ##### received a European Centre for Press & Media Freedom IJ4EU Impact Award.
+🗞️: My investigations have exposed World Cup passport fraud for The New York Times, been front-page news for The Age, been broadcast by the ABC, informed federal anti-money laundering investigations and featured in Interpol briefings. 
+
+🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
+
+📍 Melbourne, Australia
 
 ## ...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,6 +18,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 -----------
+## Investigative Analytics & Digital OSINT  
+
 #### OPEN-ACCESS TOOLS
 ## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
 ![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
@@ -65,7 +65,17 @@ Find it on ![Github](https://github.com/jckkrr/Unlayering_Oddsportal)
 -----------
 ### About me
 
+
+##### My investigations have:
+- ##### exposed World Cup passport fraud for The New York Times;
+- ##### been front-page news for The Age;
+- ##### been aired by the ABC; 
+- ##### featured in Interpol briefings; 
+- ##### informed federal money-laundering investigations; and
+- ##### received a European Centre for Press & Media Freedom IJ4EU Impact Award.
+- 
 I am an award-winning, New York Times-published investigative analyst and data storyteller, specialising in programmatic open-source intelligence (OSINT). I regularly work on projects in the cyber forensics, anti-disinformation, corporate intelligence, sports integrity, logistics and psephological spaces.
+
 My investigative work has received funding from the European Union, featured in Interpol briefings, informed AUSTRAC’s research, been broadcast on ABC and made front-page news at The Age. My recently launched Constituent Studio is committed to pushing the field of investigative analytics forward, democratising analytics and translating data into insights for leading institutions across media, law and politics.
 
 As an investigative journalist and data analyst with a masters in law and expertise in programming languages such as Python, I am a natural problem solver and communicator who is passionate about using data to find out what is really going on. I have consistently demonstrated an expertise for discerning patterns, following leads and getting to the bottom of complex problems of significant public interest, and also for translating technological research into clear and incisive analysis of the problems at hand.
