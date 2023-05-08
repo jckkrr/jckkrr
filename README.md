@@ -23,7 +23,7 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 ![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
 The UKCH is an outstanding resource for finding business connections. This tool makes the process more efficient and revealing, by creating network maps of a person's business associates - which then expands to show the associates of those associates. 
 
-Find it on ![Streamlit](https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app)
+Use it now on ![Streamlit](https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app)
 
 ## :airplane: WHO MET WHO? :airplane:
 ![image](https://user-images.githubusercontent.com/69304112/217395977-3c3f5d25-8458-4f8e-8dee-9a657768f6f3.png)
