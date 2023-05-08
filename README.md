@@ -1,12 +1,19 @@
-## Jack Kerr
-##### ... is an investigative journalist with expertise in OSINT, cyber and Python programming. 
-##### ... works with leading organisations to tackle issues of significant public interest and show them what is really going on.
-##### ... builds intelligence tools that break front-page news and drive award-winning investigations.
-##### ... 's investigations have been published by The New York Times, been front page news for The Age, featured in Interpol briefings and informed federal money-laundering investigation.
-##### .... is the winner of a European Centre for Press & Media Freedom IJ4EU Impact Award.
+## Investigative Analytics & Digital OSINT  
+#### Using data to find out what is really going on.
 
+##### I use Python to build OSINT tool that break front-page news, drive award-winning investigations and tackle issues of significant public interest for leading organisations. 
 
+##### I am an investigative journalist with expertise in OSINT, cyber, fact-checking and corporate intelligence, as well as gambling, aviation and government data.
 
+##### My investigations have:
+- ##### exposed World Cup passport fraud for The New York Times;
+- ##### been front-page news for The Age;
+- ##### been aired by the ABC; 
+- ##### featured in Interpol briefings; 
+- ##### informed federal money-laundering investigations; and
+- ##### received a European Centre for Press & Media Freedom IJ4EU Impact Award.
+
+## ...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
