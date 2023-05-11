@@ -19,17 +19,20 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 -----------
 ## Case studies 
 
-### Mining aviation data for cronyism,police harrassments and mining trends
+#### Aviation data
 
+Aviation is a trove of stories waiting to be mined, and there's been no time that this was more exident than during the pandemic. Here's three times of the stories I've used aviation data to unearth. 
 
+### Crown Casinos luxury jets used to deliver COVID aid to the Pacific
+- At a time when no one was supposed to be getting in or out of Australia and people in Melbourne weren't meant to leave their homes, Crown Casino's fleet of Bombardier Global Express XRS were surprisingly busy throughout 2020 and 2021. I built bespoke tools to analyse crowd-sourced and unfiltered aviation data, and in combination with other open-source intelligence techniques, discoverd a front-page story for The Age and Sydney Morning Herald.
 
+### Half of Australian airports were busier during pandemic
+- By bringing together year's worth of arrival and depature numbers for more than 1,000 Australian airports, I was able to show that the majority were busier during the first financial year post=COVID than the one that directly preceeded its arrival. As I reported for Business Insider, this was largely thanks to FIFO workers in the west driving much of the demand,as well as some internal tourism. 
 
-### :helicopter: POLICE PINGS MAPPER
+### Victoria Police helicopters really did target Melbourne's northern suburbs during the pandemic
+- I collected and analysed over a million pings sent out by the Victoria Police helicopters during Melbourne's lockdowns years. Was there any truth to the rumoursthat they'd targetted some suburbs? The analysis showed that one council area in the north of Melbourne received disproportionate attention.
+
 ![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
-
-I collected and analysed over a million pings sent out by the Victoria Police helicopters during Melbourne's lockdowns years. Was there any truth to the rumoursthat they'd targetted some suburbs? The analysis showed that one council area in the north of Melbourne received disproportionate attention.
-
-Find it at ![Constituent Studio]([https://github.com/jckkrr/Unlayering_Oddsportal](http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html)) 
 
 
 ...
