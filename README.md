@@ -32,7 +32,16 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 ### Victoria Police helicopters really did target Melbourne's northern suburbs during the pandemic
 - I collected and analysed over a million pings sent out by the Victoria Police helicopters during Melbourne's lockdowns years. Was there any truth to the rumoursthat they'd targetted some suburbs? The analysis showed that one council area in the north of Melbourne received disproportionate attention.
 
-![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
+#### Gambling investigations
+ 
+### Using cyber intel to show the mega-scale of a Bet365 black market network
+- Starting with a single web address, our algorithmic OSINT tools quickly discovered a network of 12,000+ Bet365 sites targeting China - an extraordinary number, even for the world's biggest bookmaker.
+
+### Mapping out European football's gambling problem
+- As part of an EU-funded cross-border investigation, we built web-scraping, data-compiling algorithms to find out just how big European football's betting problem is. The results were "frightening".
+
+#### Government data
+
 
 
 ...
