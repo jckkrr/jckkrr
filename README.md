@@ -24,9 +24,13 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 Aviation is a trove of stories waiting to be mined, and there's been no time that this was more exident than during the pandemic. Here's three times of the stories I've used aviation data to unearth. 
 
 ### Crown Casinos luxury jets used to deliver COVID aid to the Pacific
+![image](https://github.com/jckkrr/jckkrr/assets/69304112/0f635d2c-f8c4-4a47-9c3b-2271a0b44733)
+
 - At a time when no one was supposed to be getting in or out of Australia and people in Melbourne weren't meant to leave their homes, Crown Casino's fleet of Bombardier Global Express XRS were surprisingly busy throughout 2020 and 2021. I built bespoke tools to analyse crowd-sourced and unfiltered aviation data, and in combination with other open-source intelligence techniques, discoverd a front-page story for The Age and Sydney Morning Herald.
 
 ### Half of Australian airports were busier during pandemic
+![image](https://github.com/jckkrr/jckkrr/assets/69304112/df8a6d5b-f8e8-4996-aef1-a0f705c7c93f)
+
 - By bringing together year's worth of arrival and depature numbers for more than 1,000 Australian airports, I was able to show that the majority were busier during the first financial year post=COVID than the one that directly preceeded its arrival. As I reported for Business Insider, this was largely thanks to FIFO workers in the west driving much of the demand,as well as some internal tourism. 
 
 ### Victoria Police helicopters really did target Melbourne's northern suburbs during the pandemic
@@ -35,12 +39,21 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 #### Gambling investigations
  
 ### Using cyber intel to show the mega-scale of a Bet365 black market network
+![image](https://github.com/jckkrr/jckkrr/assets/69304112/a6e28543-c613-4b49-ac75-0a82b33ee4f4)
+
 - Starting with a single web address, our algorithmic OSINT tools quickly discovered a network of 12,000+ Bet365 sites targeting China - an extraordinary number, even for the world's biggest bookmaker.
 
 ### Mapping out European football's gambling problem
+![image](https://github.com/jckkrr/jckkrr/assets/69304112/20b9e88b-8d61-41af-8f95-4a7b815b45bf)
+
 - As part of an EU-funded cross-border investigation, we built web-scraping, data-compiling algorithms to find out just how big European football's betting problem is. The results were "frightening".
 
 #### Government data
+
+### Fact checking a premier's spin via a PDF reader
+![image](https://github.com/jckkrr/jckkrr/assets/69304112/41781c8b-dbb2-4b32-b666-295fc571a29d)
+
+- During the state's recent election, the Victorian premier kept repeating a claim about the state's ambulance response times being at their record best just prior to the pandemic. The available data needed to assess this claim for RMIT ABC Fact Check was stored across multiple quarterly and annual report PDFs published by Ambulance Victoria, and in a complex and inconsistent series of spreadsheets released yearly by the federal Productivity Commission. I built the tools that made this possible.
 
 
 
