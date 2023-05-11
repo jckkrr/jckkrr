@@ -17,6 +17,24 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 
 
 -----------
+## Case studies 
+
+### Mining aviation data for cronyism,police harrassments and mining trends
+
+
+
+
+### :helicopter: POLICE PINGS MAPPER
+![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
+
+I collected and analysed over a million pings sent out by the Victoria Police helicopters during Melbourne's lockdowns years. Was there any truth to the rumoursthat they'd targetted some suburbs? The analysis showed that one council area in the north of Melbourne received disproportionate attention.
+
+Find it at ![Constituent Studio]([https://github.com/jckkrr/Unlayering_Oddsportal](http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html)) 
+
+
+...
+
+
 ### Investigative Analytics & Digital OSINT Tools
 
 ## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
