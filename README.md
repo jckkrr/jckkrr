@@ -69,6 +69,9 @@ Find it on ![Streamlit](https://jckkrr-airport-crossover-tool-streamlit-app-ttrh
 These are just a taste of the tools we have available. We'd love to tell you moreabout them. Get in touch at studio@constituent.au
 
 ## 👁️👁️👁️ Visualisations 👁️👁️👁️ 
+![AusVotes2022_tpp_vs_sa1](https://github.com/jckkrr/jckkrr/assets/69304112/85841fb1-52e8-49d4-9083-0b2b761eef8c)
+![newplot(103)](https://github.com/jckkrr/jckkrr/assets/69304112/b792f2e2-8517-488b-aa21-0683f6c1dfac)
+![newplot(104)](https://github.com/jckkrr/jckkrr/assets/69304112/4b392749-a3b0-48d1-8e58-6394495ac029)
 
 ![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
 ![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
@@ -76,6 +79,7 @@ These are just a taste of the tools we have available. We'd love to tell you mor
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/df8a6d5b-f8e8-4996-aef1-a0f705c7c93f)
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/a6e28543-c613-4b49-ac75-0a82b33ee4f4)
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/20b9e88b-8d61-41af-8f95-4a7b815b45bf)
+![newplot(105)](https://github.com/jckkrr/jckkrr/assets/69304112/206ef42b-4ea1-429d-9ea5-935ef9f00274)
 
 -----------
 #### Made in Melbourne
