@@ -6,15 +6,15 @@
 
 My investigations have: 
 
-🛂:exposed World Cup passport fraud for The New York Times; 
+ 🛂: exposed World Cup passport fraud for The New York Times; 
 
-🗞️ been front-page news for The Age; 
+ 🗞️ been front-page news for The Age; 
 
-📻: been broadcast by the ABC; 
+ 📻: been broadcast by the ABC; 
 
-💰 informed federal anti-money laundering investigations; and
+ 💰 informed federal anti-money laundering investigations; and
 
-🚓: featured in Interpol briefings. 
+ 🚓: featured in Interpol briefings. 
 
 
 Areas of interest: 
