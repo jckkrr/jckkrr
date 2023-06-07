@@ -1,6 +1,7 @@
 # Using data to see what is really going on. 
 
 🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
+📍 Melbourne, Australia
 
 ### I build intelligence tools that break front-page news and drive award-winning investigations.
 
@@ -9,7 +10,6 @@ My investigations have: 🛂: exposed World Cup passport fraud for The New York 
 
 Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinformation; 👥: corporate intelligence; :soccer: gambling investigations; ✈️: aviation as a source of alternative data; and🗳️: government data.
 
-📍 Melbourne, Australia
 
 #### #investigativeAnalytics #digitalOSINT #dataStoryteller #dataTranslations #dataViz #investigativejournalism
 
