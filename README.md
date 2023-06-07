@@ -4,10 +4,21 @@
 
 ### I'm an investigative data analyst who uses Python to break front-page news and drive award-winning investigations.
 
-My investigations have: 🛂:exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
+My investigations have: 
+🛂:exposed World Cup passport fraud for The New York Times; 
+🗞️ been front-page news for The Age; 
+📻: been broadcast by the ABC; 
+💰 informed federal anti-money laundering investigations; and 
+🚓: featured in Interpol briefings. 
 
 
-Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinformation; 👥: corporate intelligence; :soccer: gambling investigations; ✈️: aviation as a source of alternative data; 🗳️: government data.
+Areas of interest: 
+🕵️: cyber and OSINT; 
+:mag: fact-checking and anti-disinformation; 
+👥: corporate intelligence; 
+:soccer: gambling investigations; 
+✈️: aviation as a source of alternative data; and
+🗳️: government data.
 
 
 
