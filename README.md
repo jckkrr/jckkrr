@@ -14,11 +14,11 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 
 
 -----------
-## Case studies 
+#### Case studies 
 
 ![Screenshot 2023-03-08 150415](https://github.com/jckkrr/jckkrr/assets/69304112/2f29d915-bb3d-4507-87fa-674a8d9eff2e)
 
-#### Aviation data
+## ✈️✈️✈️ Aviation data ✈️✈️✈️
 
 Aviation is a trove of stories waiting to be mined, and there's been no time that this was more exident than during the pandemic. Here's three times of the stories it has helped me uncover. 
 
@@ -28,30 +28,26 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 
 - **I found that half of Australia's airports were actaully busier during the pandemic** ... and as I reported for Business Insider, this was largely thanks to FIFO workers in the west driving much of the demand,as well as some internal tourism. 
 
-
-![Uploading E6sr.gif…]()
-
-
-
-
 ![newplot(102)](https://github.com/jckkrr/jckkrr/assets/69304112/1381f7f6-1c11-4207-be55-3d7a0c262aaa)
 
-#### Gambling investigations
+## ⚽⚽⚽ Gambling investigations ⚽⚽⚽
 The offshore gambling industry is a source of fascination, and of mind-bending stories. Here are three examples of how I've used data to investigate the industry.
 
-- **I investigated a suspected fixed match by comparing its odds to hundreds to those in a decade-long archive** ... and found how extraordinary the match really was. 
+- **I investigated a suspected fixed match by comparing its odds to hundreds to those in a decade-long archive** ... and found how extraordinary the match really was. Find it on: ![Github](https://github.com/jckkrr/Unlayering_Oddsportal) 
+
 
 - **I did a cyber audit on Bet365's network of sites targetting the Chinese black market** ... and this research was then used as part of a federal anti-money-laundering investigation. 
 
 - **I build tools to determine the size of football's offshore betting market** ... and found that 8 per cent of games offered by unregulated bookmakers come from Australia. 
 
-#### Government analytics
-
-### Fact checking a premier's spin via a PDF reader
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/41781c8b-dbb2-4b32-b666-295fc571a29d)
 
-- During the state's recent election, the Victorian premier kept repeating a claim about the state's ambulance response times being at their record best just prior to the pandemic. The available data needed to assess this claim for RMIT ABC Fact Check was stored across multiple quarterly and annual report PDFs published by Ambulance Victoria, and in a complex and inconsistent series of spreadsheets released yearly by the federal Productivity Commission. I built the tools that made this possible.
+## 🗳️🗳️🗳️ Government and corporate analytics 🗳️🗳️🗳️
+Make it easier to get data they put barriers around is one of my favourite jobs. Here's three times I did that. 
 
+- **I turned ASIC company records into interactive network maps** ... and discovered just how close a senator was to a disinformation group.
+
+- **I fact-checked a premier's spin via a PDF reader** ... and found that he really was full of spin.
 
 
 ...
@@ -88,12 +84,7 @@ Find it at ![Constituent Studio]([https://github.com/jckkrr/Unlayering_Oddsporta
 
 
 ...
-### :soccer: LONG SHOTS
-![image](https://user-images.githubusercontent.com/69304112/211271488-6508de61-8250-4afc-95f9-cb0fcec4f1e6.png)
 
-I love using betting data to look for everything from match-fixing to market sentiment
-
-Find it on ![Github](https://github.com/jckkrr/Unlayering_Oddsportal) 
 
 &#128279; 
 
