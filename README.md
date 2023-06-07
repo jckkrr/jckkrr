@@ -3,7 +3,7 @@
 🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
 
 
-### I translate data into incisive analysis and build intelligence tools that break front-page news and drive award-winning investigations.
+### I translate data into incisive analysis and build intelligence tools that drive award-winning investigations.
 
 My investigations have: 🛂: exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
 
