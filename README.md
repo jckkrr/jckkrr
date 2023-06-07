@@ -15,9 +15,9 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 -----------
 #### Case studies 
 
-![Screenshot 2023-03-08 150415](https://github.com/jckkrr/jckkrr/assets/69304112/2f29d915-bb3d-4507-87fa-674a8d9eff2e)
 
 ## ✈️✈️✈️ Aviation data ✈️✈️✈️
+![Screenshot 2023-03-08 150415](https://github.com/jckkrr/jckkrr/assets/69304112/2f29d915-bb3d-4507-87fa-674a8d9eff2e)
 
 Aviation is a trove of stories waiting to be mined, and there's been no time that this was more exident than during the pandemic. Here's three times of the stories it has helped me uncover. 
 
@@ -27,9 +27,10 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 
 - **I found that half of Australia's airports were actaully busier during the pandemic** ... and as I reported for Business Insider, this was largely thanks to FIFO workers in the west driving much of the demand,as well as some internal tourism. 
 
-![newplot(102)](https://github.com/jckkrr/jckkrr/assets/69304112/1381f7f6-1c11-4207-be55-3d7a0c262aaa)
 
 ## ⚽⚽⚽ Gambling investigations ⚽⚽⚽
+![newplot(102)](https://github.com/jckkrr/jckkrr/assets/69304112/1381f7f6-1c11-4207-be55-3d7a0c262aaa)
+
 The offshore gambling industry is a source of fascination, and of mind-bending stories. Here are three examples of how I've used data to investigate the industry.
 
 - **I investigated a suspected fixed match by comparing its odds to hundreds to those in a decade-long archive** ... and found how extraordinary the match really was. Find it on: ![Github](https://github.com/jckkrr/Unlayering_Oddsportal) 
@@ -39,26 +40,22 @@ The offshore gambling industry is a source of fascination, and of mind-bending s
 
 - **I build tools to determine the size of football's offshore betting market** ... and found that 8 per cent of games offered by unregulated bookmakers come from Australia. 
 
-![image](https://github.com/jckkrr/jckkrr/assets/69304112/41781c8b-dbb2-4b32-b666-295fc571a29d)
 
 ## 🗳️🗳️🗳️ Government and corporate analytics 🗳️🗳️🗳️
+![image](https://github.com/jckkrr/jckkrr/assets/69304112/41781c8b-dbb2-4b32-b666-295fc571a29d)
+
 Make it easier to get data they put barriers around is one of my favourite jobs. Here's three times I did that. 
 
 - **I turned ASIC company records into interactive network maps** ... and discovered just how close a senator was to a disinformation group.
 
 - **I fact-checked a premier's spin via a PDF reader** ... and found that he really was full of spin.
 
+- **I created an interactive public-facing tool to show who is connected in the UK Companies House database** ... which then expands to show the associates of those associates. Find it on ![Streamlit](https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app)
 
-...
 
 
-### Investigative Analytics & Digital OSINT Tools
-
-## :chains: UK COMPANIES HOUSE OFFICER CONNECTIONS CHECKER
-![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
 The UKCH is an outstanding resource for finding business connections. This tool makes the process more efficient and revealing, by creating network maps of a person's business associates - which then expands to show the associates of those associates. 
 
-Use it now on ![Streamlit](https://jckkrr-uk-companies-house-network-ma-officer-connections-6kwzs0.streamlit.app)
 
 ## :airplane: WHO MET WHO? :airplane:
 ![image](https://user-images.githubusercontent.com/69304112/217395977-3c3f5d25-8458-4f8e-8dee-9a657768f6f3.png)
@@ -71,21 +68,10 @@ Find it on ![Streamlit](https://jckkrr-airport-crossover-tool-streamlit-app-ttrh
 
 These are just a taste of the tools we have available. We'd love to tell you moreabout them. Get in touch at studio@constituent.au
 
------------
-#### RECENT PROJECTS
+## 👁️👁️👁️ Visualisations 👁️👁️👁️ 
 
-### :helicopter: POLICE PINGS MAPPER
+![image](https://user-images.githubusercontent.com/69304112/217395873-98403be4-bb31-441d-850e-1cab033a06c2.png)
 ![image](https://user-images.githubusercontent.com/69304112/211272449-3c80d1c2-5bf7-4542-b4f5-9d12a14eba5c.png)
-
-
-
-
-
-
-...
-
-
-&#128279; 
 
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/df8a6d5b-f8e8-4996-aef1-a0f705c7c93f)
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/a6e28543-c613-4b49-ac75-0a82b33ee4f4)
