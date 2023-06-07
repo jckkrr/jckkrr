@@ -1,8 +1,7 @@
 # Want to see what's really going on? 
-
 🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
-
 ### I build intelligence tools that break front-page news and drive award-winning investigations.
+
 
 My investigations have: 🛂: exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
 
@@ -90,7 +89,6 @@ These are just a taste of the tools we have available. We'd love to tell you mor
 
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/df8a6d5b-f8e8-4996-aef1-a0f705c7c93f)
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/a6e28543-c613-4b49-ac75-0a82b33ee4f4)
-![image](https://user-images.githubusercontent.com/69304112/211271488-6508de61-8250-4afc-95f9-cb0fcec4f1e6.png)
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/20b9e88b-8d61-41af-8f95-4a7b815b45bf)
 
 -----------
