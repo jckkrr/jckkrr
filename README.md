@@ -24,7 +24,7 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 
 - **I analysed 1,000,000+ pings from police helicopters during Melbourne's lockdowns.** ... and it showed that the rumours were true: they really did spend a disproportionate amount of time over the northern suburbs. Find it at: [constituent.au](http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html)
 
-- **I revealed that the Australian government hired disgraced Crown Casino's private jets were used to fly COVID-aid across the Pacific** ... and in combination with other open-source intelligence techniques, discovered a front-page story for The Age and Sydney Morning Herald. Find it at [The Age]([http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html](https://www.theage.com.au/national/commonwealth-hires-luxury-crown-executive-jets-to-do-aid-work-in-pacific-20211214-p59hed.html))
+- **I revealed that the Australian government hired disgraced Crown Casino's private jets to fly COVID-aid across the Pacific** ... and in combination with other open-source intelligence techniques, discovered a front-page story for The Age and Sydney Morning Herald. Find it at [The Age]([http://constituent.au/million_pings_melbourne_lockdown_police_helicopter.html](https://www.theage.com.au/national/commonwealth-hires-luxury-crown-executive-jets-to-do-aid-work-in-pacific-20211214-p59hed.html))
 
 - **I found that half of Australia's airports were actaully busier during the pandemic** ... and as I reported for Business Insider, this was largely thanks to FIFO workers in the west driving much of the demand,as well as some internal tourism. 
 
