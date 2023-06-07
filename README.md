@@ -29,6 +29,7 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 - **I found that half of Australia's airports were actaully busier during the pandemic** ... and as I reported for Business Insider, this was largely thanks to FIFO workers in the west driving much of the demand,as well as some internal tourism. 
 
 
+![Uploading E6sr.gif…]()
 
 
 
@@ -36,19 +37,15 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 ![newplot(102)](https://github.com/jckkrr/jckkrr/assets/69304112/1381f7f6-1c11-4207-be55-3d7a0c262aaa)
 
 #### Gambling investigations
-Aviation is a trove of stories waiting to be mined, and there's been no time that this was more exident than during the pandemic. Here's three times of the stories I've used aviation data to unearth. 
+The offshore gambling industry is a source of fascination, and of mind-bending stories. Here are three examples of how I've used data to investigate the industry.
 
- 
-- **I analysed 1,000,000+ pings from police helicopters during Melbourne's lockdowns.** ... and it showed that the rumours were true: they really did spend a disproportionate amount of time over the northern suburbs. 
-### Using cyber intel to show the mega-scale of a Bet365 black market network
+- **I investigated a suspected fixed match by comparing its odds to hundreds to those in a decade-long archive** ... and found how extraordinary the match really was. 
 
-- Starting with a single web address, our algorithmic OSINT tools quickly discovered a network of 12,000+ Bet365 sites targeting China - an extraordinary number, even for the world's biggest bookmaker.
+- **I did a cyber audit on Bet365's network of sites targetting the Chinese black market** ... and this research was then used as part of a federal anti-money-laundering investigation. 
 
-### Mapping out European football's gambling problem
+- **I build tools to determine the size of football's offshore betting market** ... and found that 8 per cent of games offered by unregulated bookmakers come from Australia. 
 
-- As part of an EU-funded cross-border investigation, we built web-scraping, data-compiling algorithms to find out just how big European football's betting problem is. The results were "frightening".
-
-#### Government data
+#### Government analytics
 
 ### Fact checking a premier's spin via a PDF reader
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/41781c8b-dbb2-4b32-b666-295fc571a29d)
