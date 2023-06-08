@@ -5,7 +5,7 @@
 
 My investigations have: 🛂: exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
 
-Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinformation; 👥: corporate intelligence; :soccer: gambling investigations; ✈️: aviation as a source of alternative data; and🗳️: government data.
+Areas of interest: cyber and OSINT; fact-checking and anti-disinformation; corporate intelligence; gambling investigations; aviation as a source of alternative data; and government data.
 
 📍 Melbourne, Australia
 
@@ -16,7 +16,7 @@ Areas of interest: 🕵️: cyber and OSINT; :mag: fact-checking and anti-disinf
 #### Case studies 
 
 
-## ✈️✈️✈️ Aviation data ✈️✈️✈️
+## ✈️ Aviation data ✈️
 ![Screenshot 2023-03-08 150415](https://github.com/jckkrr/jckkrr/assets/69304112/2f29d915-bb3d-4507-87fa-674a8d9eff2e)
 
 Aviation is a trove of stories waiting to be mined, and there's been no time that this was more exident than during the pandemic. Here's three times of the stories it has helped me uncover. 
@@ -28,7 +28,7 @@ Aviation is a trove of stories waiting to be mined, and there's been no time tha
 - **I found that half of Australia's airports were actaully busier during the pandemic** ... and as I reported for Business Insider, this was largely thanks to FIFO workers in the west driving much of the demand,as well as some internal tourism. Find it at: [GitHub](https://github.com/jckkrr/half_of_australian_airports_were_busier_during_pandemic)
 
 
-## ⚽⚽⚽ Gambling investigations ⚽⚽⚽
+## ⚽ Gambling investigations ⚽
 ![newplot(102)](https://github.com/jckkrr/jckkrr/assets/69304112/1381f7f6-1c11-4207-be55-3d7a0c262aaa)
 
 The offshore gambling industry is a source of fascination, and of mind-bending stories. Here are three examples of how I've used data to investigate the industry.
@@ -41,7 +41,7 @@ The offshore gambling industry is a source of fascination, and of mind-bending s
 - **I build tools to determine the size of football's offshore betting market** ... and found that 8 per cent of games offered by unregulated bookmakers come from Australia. 
 
 
-## 🗳️🗳️🗳️ Government and corporate analytics 🗳️🗳️🗳️
+## 🗳️ Government and corporate analytics 🗳️
 ![image](https://github.com/jckkrr/jckkrr/assets/69304112/41781c8b-dbb2-4b32-b666-295fc571a29d)
 
 Make it easier to get data they put barriers around is one of my favourite jobs. Here's three times I did that. 
