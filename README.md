@@ -1,4 +1,4 @@
-# Open-source intelligence tools that break front-page news
+# OSINT tools for breaking front-page news
 🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
 
 My investigations have: 🛂: exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
