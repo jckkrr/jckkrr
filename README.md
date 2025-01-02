@@ -1,17 +1,18 @@
 # OSINT tools for breaking front-page news
-🥇 Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award
-
-My investigations have: 🛂: exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
-
-Areas of interest: cyber and OSINT; fact-checking and anti-disinformation; corporate intelligence; gambling investigations; aviation as a source of alternative data; and government data.
+🥇 <b>Winner of the 2023 European Centre for Press and Media Freedom IJ4EU Impact Award</b> 🥇
 
 📍 Melbourne, Australia
 
+<!--- My investigations have: 🛂: exposed World Cup passport fraud for The New York Times; 🗞️ been front-page news for The Age; 📻: been broadcast by the ABC; 💰 informed federal anti-money laundering investigations; and 🚓: featured in Interpol briefings. 
+
+Areas of interest: cyber and OSINT; fact-checking and anti-disinformation; corporate intelligence; gambling investigations; aviation as a source of alternative data; and government data. 
+
+
 #### #investigativeAnalytics #digitalOSINT #dataStoryteller #dataTranslations #dataViz #investigativejournalism
 
+-->
 
------------
-#### Case studies 
+## Case studies 
 
 
 ## ✈️ Aviation data ✈️
